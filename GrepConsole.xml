@@ -53,6 +53,7 @@
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
