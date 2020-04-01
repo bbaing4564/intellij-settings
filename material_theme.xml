@@ -1,7 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
     <option name="accentColor" value="009688" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="7de39bf5:170e1d1c83a:-8000" />
     <option name="version" value="4.11.5" />
   </component>
