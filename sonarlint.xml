@@ -30,6 +30,7 @@
         <option value="Web:TableHeaderHasIdOrScopeCheck" />
         <option value="Web:TableWithoutCaptionCheck" />
         <option value="Web:UnsupportedTagsInHtml5Check" />
+        <option value="java:S100" />
         <option value="javascript:S108" />
         <option value="javascript:S1110" />
         <option value="javascript:S1116" />
